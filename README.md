@@ -7,7 +7,7 @@ Ushtrimet nga ligjeratat (kopje e repos [cg-ccs601-2026](https://github.com/visa
 | Folderi | Permbajtja |
 | --- | --- |
 | `java i/` | Ushtrimi baze: kubi qe rrotullohet |
-| `java i/detyra - shtepia/` | **Detyra 1:** shtepi e ndertuar me primitive (kuti, cilinder, kon), pa dyer, dritare, oxhak dhe peme |
+| `java i/detyra - shtepia/` | **Detyra 1:** shtepi e ndertuar me primitive (muret kuti, kulmi kon me 4 segmente) ne hapesire blu |
 | `java ii/` | Kubi dhe sfera me drita dhe OrbitControls |
 | `java ii/detyra - sistemi solar/` | **Detyra 2:** sistemi solar me planetin Mars dhe satelitin Phobos |
 | `java iii/solar system/` | Sistemi solar: Dielli, Toka, Hena |

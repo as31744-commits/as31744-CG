@@ -11,7 +11,7 @@ const camera = new THREE.PerspectiveCamera(
     1000
 );
 
-camera.position.set(7, 5, 9);
+camera.position.set(6, 4, 7);
 
 const wallMaterial = new THREE.MeshStandardMaterial({ color: 0xf5deb3 });
 const roofMaterial = new THREE.MeshStandardMaterial({ color: 0xb22222 });
@@ -29,23 +29,6 @@ const roof = new THREE.Mesh(new THREE.ConeGeometry(3.2, 2, 4), roofMaterial);
 roof.position.y = 2.5 + 1;
 roof.rotation.y = Math.PI / 4;
 house.add(roof);
-
-//Kulla anesore - cilinder me kulm kon
-const tower = new THREE.Mesh(new THREE.CylinderGeometry(0.9, 0.9, 3.5, 32), wallMaterial);
-tower.position.set(-2.6, 1.75, 1.6);
-house.add(tower);
-
-const towerRoof = new THREE.Mesh(new THREE.ConeGeometry(1.2, 1.6, 32), roofMaterial);
-towerRoof.position.set(-2.6, 3.5 + 0.8, 1.6);
-house.add(towerRoof);
-
-//Toka
-const ground = new THREE.Mesh(
-    new THREE.PlaneGeometry(30, 30),
-    new THREE.MeshStandardMaterial({ color: 0x7cba3d })
-);
-ground.rotation.x = -Math.PI / 2;
-scene.add(ground);
 
 const ambientLight = new THREE.AmbientLight(0xffffff, 0.6);
 scene.add(ambientLight);
