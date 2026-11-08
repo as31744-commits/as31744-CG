@@ -13,6 +13,7 @@ Ushtrimet nga ligjeratat (kopje e repos [cg-ccs601-2026](https://github.com/visa
 | `java iii/solar system/` | Sistemi solar: Dielli, Toka, Hena |
 | `java iii/robotic arm/` | Dora robotike |
 | `java iii/detyra - dora robotike/` | **Detyra 3:** dora robotike me gishta me madhesi te ndryshme qe levizin, dhe gishtin e madh ne anen e majte te shputes |
+| `java iv/detyra - dhoma/` | **Detyra 4:** dhome ngrenieje me modele te gatshme nga Poly Haven (CC0): tavoline e shkallezuar dhe 6 karrike te shkallezuara, zhvendosura dhe rrotulluara rreth saj, plus bufe, divan, kolltuk, llamba, bime dhe piktura |
 
 ## Si te ekzekutohet
 
@@ -28,3 +29,9 @@ Pastaj hapni ne shfletues folderin perkates, p.sh. `http://localhost:5173/java i
 - `Q` / `A` - supi, `W` / `S` - berryli, `E` / `D` - kyçi
 - `1` - `5` - hap/mbyll gishtin perkates (1 = gishti i madh ... 5 = i vogli)
 - `R` - mbyll grushtin, `F` - hap doren
+
+### Dhoma (Detyra 4)
+
+- Mausi - rrotullo / zmadho / zhvendos kameren
+- `N` - nderro diten / naten (ndizen llambat mbi tavoline)
+- `?nate` ne URL e hap direkt ne modalitetin e nates
