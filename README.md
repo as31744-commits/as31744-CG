@@ -13,7 +13,7 @@ Ushtrimet nga ligjeratat (kopje e repos [cg-ccs601-2026](https://github.com/visa
 | `java iii/solar system/` | Sistemi solar: Dielli, Toka, Hena |
 | `java iii/robotic arm/` | Dora robotike |
 | `java iii/detyra - dora robotike/` | **Detyra 3:** dora robotike me gishta me madhesi te ndryshme qe levizin, dhe gishtin e madh ne anen e majte te shputes |
-| `java iv/detyra - dhoma/` | **Detyra 4:** dhome ngrenieje me modele te gatshme nga Poly Haven (CC0): tavoline e shkallezuar dhe 6 karrike te shkallezuara, zhvendosura dhe rrotulluara rreth saj, plus bufe, divan, kolltuk, llamba, bime dhe piktura |
+| `java iv/detyra - dhoma/` | **Detyra 4:** dhome ngrenieje me modele te gatshme nga Poly Haven (CC0): tavoline e shkallezuar dhe 6 kolltuqe klasike te shkallezuara, zhvendosura dhe rrotulluara rreth saj, plus konzole baroke, shandane prej bronzi, piktura me korniza te arta, divan, kolltuk, llamba dhe bime; dy dritare te larta me perde, lamperi dhe parket |
 
 ## Si te ekzekutohet
 
